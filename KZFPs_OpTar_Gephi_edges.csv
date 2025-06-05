@@ -1,0 +1,152 @@
+Source,Target,Weight,Type
+ZNF736,adolescent idiopathic scoliosis,0.506792120120138,Undirected
+ZNF736,PHF-tau measurement,0.5080735885735571,Undirected
+ZNF100,systolic blood pressure,0.664878290802986,Undirected
+ZNF100,diastolic blood pressure,0.7268170035849668,Undirected
+ZNF808,neonatal diabetes mellitus,0.607930797611621,Undirected
+ZNF808,pancreatic agenesis,0.607930797611621,Undirected
+ZNF251,serum alanine aminotransferase measurement,0.5130324166520964,Undirected
+ZNF268,cardiovascular disease,0.564045232601242,Undirected
+ZNF268,BMI-adjusted waist-hip ratio,0.6045046466170619,Undirected
+ZNF268,waist-hip ratio,0.5785122103808747,Undirected
+ZNF208,benign neoplasm,0.5040564939501805,Undirected
+ZNF675,brain measurement,0.5344941955636113,Undirected
+ZNF675,cortical surface area measurement,0.6679523746933963,Undirected
+ZNF726,Testicular Germ Cell Tumor,0.7088581527513813,Undirected
+ZNF728,age at menopause,0.6477757330672675,Undirected
+ZNF728,menopause,0.514192930981247,Undirected
+ZNF728,Testicular Germ Cell Tumor,0.5104151990329768,Undirected
+ZNF98,Young adult-onset Parkinsonism,0.5533999948195254,Undirected
+ZNF133,bone density,0.5872200084873305,Undirected
+ZNF133,urate measurement,0.5872200084873305,Undirected
+ZNF133,body mass index,0.7698276435841551,Undirected
+ZNF816,blood phosphate measurement,0.5047615462065966,Undirected
+ZNF816,urate measurement,0.5045778161231278,Undirected
+ZNF471,body height,0.5307466658453406,Undirected
+ZNF470,alkaline phosphatase measurement,0.6067498061568187,Undirected
+ZNF19,low density lipoprotein cholesterol measurement,0.593509616474834,Undirected
+ZNF229,cholesteryl ester measurement,0.5936549797987487,Undirected
+ZNF229,free cholesterol in small LDL measurement ,0.607930797611621,Undirected
+ZNF229,phospholipids in small LDL measurement ,0.5694080570809977,Undirected
+ZNF229,total cholesterol measurement,0.7613637714904222,Undirected
+ZNF229,low density lipoprotein cholesterol measurement,0.8784113333947573,Undirected
+ZNF229,apolipoprotein B measurement,0.9065694417138328,Undirected
+ZNF676,telomere length,0.519541530744633,Undirected
+ZNF676,IGF-1 measurement,0.5376435315142782,Undirected
+ZFP1,lymphocyte count,0.6384967915015582,Undirected
+ZFP1,body height,0.5763838088748191,Undirected
+ZNF184,depressive symptom measurement,0.5386419090253631,Undirected
+ZNF184,neuroticism measurement,0.5861453698696679,Undirected
+ZNF184,mathematical ability,0.5951429625885002,Undirected
+ZNF184,lymphocyte count,0.5346167142992614,Undirected
+ZNF184,eosinophil count,0.5396650505941112,Undirected
+ZNF823,schizophrenia,0.666660293528717,Undirected
+ZFP57,"transient neonatal diabetes, dominant/recessive",0.7599134970145264,Undirected
+ZFP57,transient neonatal diabetes mellitus,0.9128646122571644,Undirected
+ZNF605,mean corpuscular hemoglobin concentration,0.5148450431647733,Undirected
+ZNF789,mean corpuscular volume,0.5315836364352735,Undirected
+ZNF132,platelet count,0.5661770907069652,Undirected
+ZNF584,platelet count,0.5443297834614427,Undirected
+ZNF585A,body height,0.6425202745030453,Undirected
+ZNF487,platelet crit,0.5497169824106768,Undirected
+ZNF487,platelet count,0.6496502195748781,Undirected
+ZNF487,eosinophil count,0.5853325667785341,Undirected
+ZNF320,monocyte count,0.5714506227031948,Undirected
+ZFP90,systemic lupus erythematosus,0.5525742531673725,Undirected
+ZFP90,Hepatic fibrosis,0.5088331706874939,Undirected
+ZFP90,psoriasis,0.5163124540462686,Undirected
+ZFP90,ulcerative colitis,0.669942526485702,Undirected
+ZFP90,platelet crit,0.5093281813655937,Undirected
+ZFP90,eosinophil count,0.75991674203294,Undirected
+ZNF678,BMI-adjusted hip circumference,0.5148013330788981,Undirected
+ZNF678,body fat distribution,0.6100005585316006,Undirected
+ZNF678,BMI-adjusted waist circumference,0.5393766119994922,Undirected
+ZNF678,body height,0.6025157300951499,Undirected
+ZNF844,body height,0.5438093928600597,Undirected
+ZNF485,body height,0.6493264584480506,Undirected
+ZNF333,body height,0.5509568978213899,Undirected
+ZNF90,viral load,0.5460196570007153,Undirected
+ZNF169,refractive error measurement,0.5121939906099748,Undirected
+ZNF169,birth weight,0.5614279045333395,Undirected
+ZNF169,vital capacity,0.5115224013436658,Undirected
+ZNF169,forced expiratory volume,0.5798542365081621,Undirected
+ZNF169,Red cell distribution width,0.7160156365999681,Undirected
+ZNF169,body mass index,0.6196059276945873,Undirected
+ZNF169,mean corpuscular volume,0.6942409616160922,Undirected
+ZNF169,body height,0.5829082612664785,Undirected
+ZNF354C,cortical thickness,0.5529392151305097,Undirected
+ZNF354C,body fat distribution,0.5766052882688959,Undirected
+ZNF354C,brain measurement,0.5243340152025114,Undirected
+ZNF354C,FEV/FVC ratio,0.6165762616249334,Undirected
+ZNF354C,BMI-adjusted waist circumference,0.6532936335972724,Undirected
+ZNF354C,body height,0.5162356251152163,Undirected
+ZNF484,bone quantitative ultrasound measurement,0.564620253749047,Undirected
+ZNF484,heel bone mineral density,0.7646346455984746,Undirected
+ZNF283,heel bone mineral density,0.5236549747095288,Undirected
+ZNF440,vitamin D measurement,0.567795826088966,Undirected
+ZNF440,leukocyte count,0.5200632957394395,Undirected
+ZNF440,neutrophil count,0.5161419350716105,Undirected
+ZNF425,neutrophil percentage of leukocytes,0.5217015585314272,Undirected
+ZNF425,neutrophil count,0.5790712052246997,Undirected
+ZNF101,neutrophil count,0.5672787073606584,Undirected
+ZNF12,hemoglobin measurement,0.5590883515157673,Undirected
+ZNF12,hematocrit,0.5674560580286138,Undirected
+ZNF12,IGF-1 measurement,0.9418507149013784,Undirected
+ZNF713,leukocyte count,0.5122169620625174,Undirected
+ZNF627,genetic disorder,0.7683567498489113,Undirected
+ZNF627,Spondyloenchondrodysplasia with immune dysregulation,0.9346242097729524,Undirected
+ZNF699,DEGCAGS syndrome,0.8383533037032608,Undirected
+ZNF699,complex neurodevelopmental disorder,0.607930797611621,Undirected
+ZNF680,vitamin D measurement,0.6973254160106688,Undirected
+ZNF573,sex hormone-binding globulin measurement,0.581713481823822,Undirected
+ZFP30,FEV/FVC ratio,0.5442207320779499,Undirected
+ZNF436,creatinine measurement,0.6155977083681784,Undirected
+ZNF436,glomerular filtration rate,0.6795222949320683,Undirected
+ZNF641,glomerular filtration rate,0.5848338857537065,Undirected
+ZNF799,testosterone measurement,0.5438958501175545,Undirected
+ZNF799,monocyte count,0.5466246630584579,Undirected
+ZNF799,type 2 diabetes mellitus,0.6082028502117683,Undirected
+ZNF799,sex hormone-binding globulin measurement,0.6223178265707974,Undirected
+ZNF799,body height,0.5585553279717667,Undirected
+ZNF429,thyroid disease,0.5356927571505408,Undirected
+ZNF429,endocrine system disease,0.5442202383773491,Undirected
+ZNF429,diabetes mellitus,0.5442202383773491,Undirected
+ZNF429,erythrocyte count,0.6637799689326127,Undirected
+ZNF429,mean corpuscular volume,0.6319039190329798,Undirected
+ZNF563,bilirubin measurement,0.6648265317474964,Undirected
+ZNF519,protein measurement,0.5044530099585028,Undirected
+ZNF273,triglyceride measurement,0.5314202837936081,Undirected
+ZNF273,sleep duration,0.5314202837936081,Undirected
+ZNF596,Kallmann syndrome,0.547137717850459,Undirected
+ZNF596,hypogonadotropic hypogonadism 5 with or without anosmia,0.547137717850459,Undirected
+ZNF596,breast carcinoma,0.5837821835969309,Undirected
+PRDM9,recombination rate,0.6504826064054369,Undirected
+PRDM9,recombination measurement,0.5808060442732288,Undirected
+PRDM9,genetic non-acquired premature ovarian failure,0.7612644543425522,Undirected
+ZNF211,Red cell distribution width,0.5845981203027387,Undirected
+ZNF81,X-linked non-syndromic intellectual disability,0.607930797611621,Undirected
+ZNF141,postaxial polydactyly type A,0.607930797611621,Undirected
+ZNF141,"polydactyly, postaxial, type A6",0.607930797611621,Undirected
+ZNF275,benign neoplasm of adrenal gland,0.5177916777070837,Undirected
+ZKSCAN8,type 1 diabetes mellitus,0.5274441301771771,Undirected
+ZNF496,monocyte percentage of leukocytes,0.5243831807208913,Undirected
+ZKSCAN2,smoking status measurement,0.6087994058186484,Undirected
+ZNF483,apolipoprotein A 1 measurement,0.5277684362275821,Undirected
+ZNF483,age at menarche,0.7734781476577527,Undirected
+ZNF483,puberty onset measurement,0.6796221550972197,Undirected
+ZNF483,protein measurement,0.5116841864133943,Undirected
+ZNF483,body height,0.6917812529225227,Undirected
+ZKSCAN1,FEV/FVC ratio,0.5164498584676225,Undirected
+ZNF446,Short stature,0.6129968875917179,Undirected
+ZNF777,diastolic blood pressure,0.6612693589058879,Undirected
+ZNF777,mean corpuscular hemoglobin,0.6308817106110207,Undirected
+ZNF777,mean corpuscular hemoglobin concentration,0.5388125294721147,Undirected
+ZNF777,mean corpuscular volume,0.6957745286090158,Undirected
+ZNF746,reticulocyte count,0.5360703944454777,Undirected
+ZNF282,eosinophil count,0.6418488747142406,Undirected
+ZNF783,heel bone mineral density,0.5725430550273909,Undirected
+ZNF398,neutrophil percentage of leukocytes,0.5693716466681297,Undirected
+ZNF398,leukocyte count,0.589203443252625,Undirected
+ZNF398,myeloid white cell count,0.5634334958376737,Undirected
+ZNF398,neutrophil count,0.6703367769979613,Undirected
+ZNF398,eosinophil count,0.6861686447323058,Undirected

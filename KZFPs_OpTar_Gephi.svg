@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="42570.87"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-22282.000000 -23819.000000 42570.871094 44798.000000"
+     height="44798.0" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="101.35842"
+              d="M -9638.618164,-17464.414063 C -9517.595703,-17821.833984 -8799.932617,-18176.431641 -8442.511719,-18055.410156"
+              class="ZNF736 adolescent idiopathic scoliosis"
+              stroke-opacity="1.0" stroke="#fb8b57"/>
+        <path fill="none" stroke-width="101.614716"
+              d="M -9638.618164,-17464.414063 C -9445.624023,-17122.419922 -9669.122070,-16319.939453 -10011.116211,-16126.945313"
+              class="ZNF736 PHF-tau measurement" stroke-opacity="1.0"
+              stroke="#fa8a57"/>
+        <path fill="none" stroke-width="132.97566"
+              d="M 15541.587891,808.781372 C 15838.794922,849.074768 16224.166016,1355.326050 16183.873047,1652.533569"
+              class="ZNF100 systolic blood pressure" stroke-opacity="1.0"
+              stroke="#c21d12"/>
+        <path fill="none" stroke-width="145.3634"
+              d="M 15541.587891,808.781372 C 15162.496094,700.592224 14756.142578,-30.328659 14864.332031,-409.420135"
+              class="ZNF100 diastolic blood pressure" stroke-opacity="1.0"
+              stroke="#a40000"/>
+        <path fill="none" stroke-width="121.58616"
+              d="M 5800.768555,-16304.789063 C 5686.217285,-16011.058594 5073.795410,-15742.291016 4780.065430,-15856.841797"
+              class="ZNF808 neonatal diabetes mellitus" stroke-opacity="1.0"
+              stroke="#d6452b"/>
+        <path fill="none" stroke-width="121.58616"
+              d="M 5800.768555,-16304.789063 C 6030.661133,-16505.386719 6676.397461,-16461.447266 6876.996094,-16231.553711"
+              class="ZNF808 pancreatic agenesis" stroke-opacity="1.0"
+              stroke="#d6452b"/>
+        <path fill="none" stroke-width="102.60648"
+              d="M -14894.487305,-2247.544434 C -15103.714844,-2257.035889 -15403.317383,-2585.112793 -15393.826172,-2794.339600"
+              class="ZNF251 serum alanine aminotransferase measurement"
+              stroke-opacity="1.0" stroke="#f88655"/>
+        <path fill="none" stroke-width="112.809044"
+              d="M -6548.275391,-10632.055664 C -6778.261230,-11020.614258 -6540.401855,-11948.432617 -6151.842773,-12178.418945"
+              class="ZNF268 cardiovascular disease" stroke-opacity="1.0"
+              stroke="#e6633e"/>
+        <path fill="none" stroke-width="120.90093"
+              d="M -6548.275391,-10632.055664 C -6082.096191,-10642.133789 -5367.710449,-9957.981445 -5357.632813,-9491.801758"
+              class="ZNF268 BMI-adjusted waist-hip ratio" stroke-opacity="1.0"
+              stroke="#d8472d"/>
+        <path fill="none" stroke-width="115.70244"
+              d="M -6548.275391,-10632.055664 C -6595.316895,-10181.536133 -7341.658691,-9576.318359 -7792.178711,-9623.359375"
+              class="ZNF268 waist-hip ratio" stroke-opacity="1.0"
+              stroke="#e15938"/>
+        <path fill="none" stroke-width="100.8113"
+              d="M -12752.837891,15904.015625 C -12969.598633,15907.413086 -13299.835938,15587.367188 -13303.233398,15370.606445"
+              class="ZNF208 benign neoplasm" stroke-opacity="1.0"
+              stroke="#fc8d59"/>
+        <path fill="none" stroke-width="106.89884"
+              d="M 2304.273926,11903.234375 C 1876.351685,11712.022461 1521.285767,10783.322266 1712.497559,10355.399414"
+              class="ZNF675 brain measurement" stroke-opacity="1.0"
+              stroke="#f1774b"/>
+        <path fill="none" stroke-width="133.59047"
+              d="M 2304.273926,11903.234375 C 2569.608887,11885.809570 2993.748779,12257.673828 3011.174072,12523.008789"
+              class="ZNF675 cortical surface area measurement"
+              stroke-opacity="1.0" stroke="#c11b11"/>
+        <path fill="none" stroke-width="141.77164"
+              d="M -8210.375000,9582.672852 C -8135.987793,9776.855469 -8315.681641,10179.708984 -8509.864258,10254.096680"
+              class="ZNF726 Testicular Germ Cell Tumor" stroke-opacity="1.0"
+              stroke="#b20000"/>
+        <path fill="none" stroke-width="129.55515"
+              d="M -9641.660156,13151.403320 C -9231.080078,13112.331055 -8556.602539,13669.591797 -8517.530273,14080.171875"
+              class="ZNF728 age at menopause" stroke-opacity="1.0"
+              stroke="#c8291a"/>
+        <path fill="none" stroke-width="102.838585"
+              d="M -9641.660156,13151.403320 C -10187.987305,13266.300781 -11179.822266,12619.155273 -11294.719727,12072.828125"
+              class="ZNF728 menopause" stroke-opacity="1.0" stroke="#f88554"/>
+        <path fill="none" stroke-width="102.08304"
+              d="M -9641.660156,13151.403320 C -9994.761719,12345.583008 -9315.684570,10607.198242 -8509.864258,10254.096680"
+              class="ZNF728 Testicular Germ Cell Tumor" stroke-opacity="1.0"
+              stroke="#f98856"/>
+        <path fill="none" stroke-width="110.68"
+              d="M -6067.352539,18588.640625 C -5875.500000,18623.134766 -5639.459961,18962.652344 -5673.953125,19154.505859"
+              class="ZNF98 Young adult-onset Parkinsonism" stroke-opacity="1.0"
+              stroke="#ea6a43"/>
+        <path fill="none" stroke-width="117.444"
+              d="M 1986.330322,-4195.747559 C 2177.726074,-3788.987549 1854.679565,-2891.753418 1447.919312,-2700.357666"
+              class="ZNF133 bone density" stroke-opacity="1.0" stroke="#de5334"/>
+        <path fill="none" stroke-width="117.444"
+              d="M 1986.330322,-4195.747559 C 1744.503662,-4690.017578 2123.168945,-5794.162109 2617.438965,-6035.988770"
+              class="ZNF133 urate measurement" stroke-opacity="1.0"
+              stroke="#de5334"/>
+        <path fill="none" stroke-width="153.96553"
+              d="M 1986.330322,-4195.747559 C 2342.020264,-4313.310059 3051.898926,-3956.119385 3169.461426,-3600.429443"
+              class="ZNF133 body mass index" stroke-opacity="1.0"
+              stroke="#830000"/>
+        <path fill="none" stroke-width="100.95231"
+              d="M 1468.036377,-6959.785156 C 1283.369629,-7239.993164 1426.681763,-7937.305664 1706.890015,-8121.972656"
+              class="ZNF816 blood phosphate measurement" stroke-opacity="1.0"
+              stroke="#fb8c58"/>
+        <path fill="none" stroke-width="100.915565"
+              d="M 1468.036377,-6959.785156 C 1882.676147,-7004.906250 2572.317627,-6450.628418 2617.438965,-6035.988770"
+              class="ZNF816 urate measurement" stroke-opacity="1.0"
+              stroke="#fb8c58"/>
+        <path fill="none" stroke-width="106.14933"
+              d="M 1252.063354,2174.742920 C 1681.261719,1745.080566 2969.552979,1744.384766 3399.215332,2173.583252"
+              class="ZNF471 body height" stroke-opacity="1.0" stroke="#f27a4d"/>
+        <path fill="none" stroke-width="121.34996"
+              d="M 8714.486328,14967.852539 C 8852.915039,14852.138672 9234.128906,14886.208984 9349.842773,15024.637695"
+              class="ZNF470 alkaline phosphatase measurement"
+              stroke-opacity="1.0" stroke="#d7452c"/>
+        <path fill="none" stroke-width="118.70192"
+              d="M -13704.509766,1601.476318 C -13533.647461,1780.174194 -13545.399414,2304.514648 -13724.097656,2475.377441"
+              class="ZNF19 low density lipoprotein cholesterol measurement"
+              stroke-opacity="1.0" stroke="#db4f31"/>
+        <path fill="none" stroke-width="118.730995"
+              d="M -12616.375977,5067.162598 C -12717.198242,4159.979004 -11507.655273,2647.969727 -10600.471680,2547.147705"
+              class="ZNF229 cholesteryl ester measurement" stroke-opacity="1.0"
+              stroke="#db4e31"/>
+        <path fill="none" stroke-width="121.58616"
+              d="M -12616.375977,5067.162598 C -11997.440430,4284.960938 -9895.734375,4040.061768 -9113.533203,4658.997070"
+              class="ZNF229 free cholesterol in small LDL measurement "
+              stroke-opacity="1.0" stroke="#d6452b"/>
+        <path fill="none" stroke-width="113.881615"
+              d="M -12616.375977,5067.162598 C -11993.854492,5544.585938 -11776.207031,7194.502930 -12253.630859,7817.023926"
+              class="ZNF229 phospholipids in small LDL measurement "
+              stroke-opacity="1.0" stroke="#e45f3c"/>
+        <path fill="none" stroke-width="152.27275"
+              d="M -12616.375977,5067.162598 C -11877.707031,4757.948242 -10305.882813,5402.129883 -9996.668945,6140.798340"
+              class="ZNF229 total cholesterol measurement" stroke-opacity="1.0"
+              stroke="#8a0000"/>
+        <path fill="none" stroke-width="175.68227"
+              d="M -12616.375977,5067.162598 C -13356.277344,4770.350098 -14020.911133,3215.278809 -13724.097656,2475.377441"
+              class="ZNF229 low density lipoprotein cholesterol measurement"
+              stroke-opacity="1.0" stroke="#300000"/>
+        <path fill="none" stroke-width="181.31389"
+              d="M -12616.375977,5067.162598 C -12979.196289,5495.437500 -14165.839844,5593.619629 -14594.115234,5230.798828"
+              class="ZNF229 apolipoprotein B measurement" stroke-opacity="1.0"
+              stroke="#1a0000"/>
+        <path fill="none" stroke-width="103.90831"
+              d="M 1638.427979,16547.498047 C 1774.498901,16199.977539 2499.887695,15882.800781 2847.409424,16018.871094"
+              class="ZNF676 telomere length" stroke-opacity="1.0"
+              stroke="#f68252"/>
+        <path fill="none" stroke-width="107.52871"
+              d="M 1638.427979,16547.498047 C 1236.830688,17085.423828 -172.453522,17289.916016 -710.378967,16888.318359"
+              class="ZNF676 IGF-1 measurement" stroke-opacity="1.0"
+              stroke="#ef754a"/>
+        <path fill="none" stroke-width="127.699356"
+              d="M 666.278564,1066.701294 C 484.302277,1252.663940 -67.606148,1258.643555 -253.568817,1076.667236"
+              class="ZFP1 lymphocyte count" stroke-opacity="1.0"
+              stroke="#cb2f1e"/>
+        <path fill="none" stroke-width="115.276764"
+              d="M 666.278564,1066.701294 C 1434.242310,741.490295 3074.004395,1405.619629 3399.215332,2173.583252"
+              class="ZFP1 body height" stroke-opacity="1.0" stroke="#e25a39"/>
+        <path fill="none" stroke-width="107.72838"
+              d="M -0.008893,-0.001868 C -69.849030,-403.891052 431.224457,-1114.484985 835.113647,-1184.325073"
+              class="ZNF184 depressive symptom measurement" stroke-opacity="1.0"
+              stroke="#ef7549"/>
+        <path fill="none" stroke-width="117.22907"
+              d="M -0.008893,-0.001868 C -200.394760,-206.966400 -190.526749,-817.992065 16.437782,-1018.377930"
+              class="ZNF184 neuroticism measurement" stroke-opacity="1.0"
+              stroke="#de5435"/>
+        <path fill="none" stroke-width="119.028595"
+              d="M -0.008893,-0.001868 C 142.410797,-269.870667 760.843506,-461.044250 1030.712280,-318.624573"
+              class="ZNF184 mathematical ability" stroke-opacity="1.0"
+              stroke="#db4d31"/>
+        <path fill="none" stroke-width="106.92334"
+              d="M -0.008893,-0.001868 C 164.612946,266.043945 12.476974,912.045410 -253.568817,1076.667236"
+              class="ZNF184 lymphocyte count" stroke-opacity="1.0"
+              stroke="#f1774b"/>
+        <path fill="none" stroke-width="107.933014"
+              d="M -0.008893,-0.001868 C -753.222961,743.755493 -2998.679932,729.570435 -3742.437500,-23.643669"
+              class="ZNF184 eosinophil count" stroke-opacity="1.0"
+              stroke="#ef7449"/>
+        <path fill="none" stroke-width="133.33206"
+              d="M -4733.515137,11747.563477 C -4650.726563,11882.046875 -4728.269043,12207.953125 -4862.751953,12290.741211"
+              class="ZNF823 schizophrenia" stroke-opacity="1.0" stroke="#c11c11"/>
+        <path fill="none" stroke-width="151.9827"
+              d="M -301.340027,-3235.848877 C -544.601624,-3286.352051 -833.739197,-3726.999268 -783.236023,-3970.260742"
+              class="ZFP57 transient neonatal diabetes, dominant/recessive"
+              stroke-opacity="1.0" stroke="#8b0000"/>
+        <path fill="none" stroke-width="182.57292"
+              d="M -301.340027,-3235.848877 C -120.756622,-3200.430420 96.990753,-2876.427734 61.572300,-2695.844238"
+              class="ZFP57 transient neonatal diabetes mellitus"
+              stroke-opacity="1.0" stroke="#160000"/>
+        <path fill="none" stroke-width="102.96901"
+              d="M 13695.937500,-6867.311523 C 13700.625000,-6630.524414 13352.474609,-6268.313477 13115.687500,-6263.625977"
+              class="ZNF605 mean corpuscular hemoglobin concentration"
+              stroke-opacity="1.0" stroke="#f88554"/>
+        <path fill="none" stroke-width="106.31673"
+              d="M 9284.648438,-5956.425293 C 9563.941406,-6142.049805 10261.316406,-6001.546875 10446.941406,-5722.254395"
+              class="ZNF789 mean corpuscular volume" stroke-opacity="1.0"
+              stroke="#f2794c"/>
+        <path fill="none" stroke-width="113.23542"
+              d="M -675.247070,-1477.262451 C -860.060608,-1304.773560 -1396.014160,-1323.260742 -1568.503052,-1508.074341"
+              class="ZNF132 platelet count" stroke-opacity="1.0"
+              stroke="#e5613d"/>
+        <path fill="none" stroke-width="108.86596"
+              d="M -1989.832153,-2457.637695 C -1715.653564,-2351.990967 -1462.856201,-1782.252930 -1568.503052,-1508.074341"
+              class="ZNF584 platelet count" stroke-opacity="1.0"
+              stroke="#ed7147"/>
+        <path fill="none" stroke-width="128.50406"
+              d="M 1888.803223,990.755554 C 2427.451172,925.238647 3333.698242,1634.935303 3399.215332,2173.583252"
+              class="ZNF585A body height" stroke-opacity="1.0" stroke="#ca2d1c"/>
+        <path fill="none" stroke-width="109.9434"
+              d="M -1602.714233,-24.527571 C -1366.499268,225.784363 -1387.644653,955.574768 -1637.956543,1191.789795"
+              class="ZNF487 platelet crit" stroke-opacity="1.0" stroke="#eb6d45"/>
+        <path fill="none" stroke-width="129.93004"
+              d="M -1602.714233,-24.527571 C -1892.581299,-328.079132 -1872.054688,-1218.207275 -1568.503052,-1508.074341"
+              class="ZNF487 platelet count" stroke-opacity="1.0"
+              stroke="#c72819"/>
+        <path fill="none" stroke-width="117.06651"
+              d="M -1602.714233,-24.527571 C -2030.482056,403.593811 -3314.316162,404.124146 -3742.437500,-23.643669"
+              class="ZNF487 eosinophil count" stroke-opacity="1.0"
+              stroke="#de5435"/>
+        <path fill="none" stroke-width="114.29012"
+              d="M 5974.624512,10475.190430 C 6047.473633,10265.453125 6471.353027,10060.120117 6681.090820,10132.968750"
+              class="ZNF320 monocyte count" stroke-opacity="1.0"
+              stroke="#e35e3b"/>
+        <path fill="none" stroke-width="110.514854"
+              d="M -3340.631836,2668.365234 C -3527.222656,3291.355469 -4741.594727,3945.955078 -5364.584961,3759.364014"
+              class="ZFP90 systemic lupus erythematosus" stroke-opacity="1.0"
+              stroke="#ea6b43"/>
+        <path fill="none" stroke-width="101.76663"
+              d="M -3340.631836,2668.365234 C -2871.926758,2992.078613 -2654.439209,4180.706055 -2978.152588,4649.411133"
+              class="ZFP90 Hepatic fibrosis" stroke-opacity="1.0"
+              stroke="#fa8956"/>
+        <path fill="none" stroke-width="103.26249"
+              d="M -3340.631836,2668.365234 C -2915.648926,2067.056152 -1376.211548,1802.566406 -774.902344,2227.549316"
+              class="ZFP90 psoriasis" stroke-opacity="1.0" stroke="#f78453"/>
+        <path fill="none" stroke-width="133.98851"
+              d="M -3340.631836,2668.365234 C -2877.502197,2424.371826 -1816.817383,2753.075684 -1572.823730,3216.205322"
+              class="ZFP90 ulcerative colitis" stroke-opacity="1.0"
+              stroke="#c01a10"/>
+        <path fill="none" stroke-width="101.86564"
+              d="M -3340.631836,2668.365234 C -3295.411865,2032.515015 -2273.806641,1146.569824 -1637.956543,1191.789795"
+              class="ZFP90 platelet crit" stroke-opacity="1.0" stroke="#fa8956"/>
+        <path fill="none" stroke-width="151.98335"
+              d="M -3340.631836,2668.365234 C -3959.394775,2210.324463 -4200.478027,595.119263 -3742.437500,-23.643669"
+              class="ZFP90 eosinophil count" stroke-opacity="1.0"
+              stroke="#8b0000"/>
+        <path fill="none" stroke-width="102.960266"
+              d="M 1000.797424,4925.047363 C 516.307373,4850.916504 -99.231918,4012.985596 -25.101332,3528.495605"
+              class="ZNF678 BMI-adjusted hip circumference" stroke-opacity="1.0"
+              stroke="#f88554"/>
+        <path fill="none" stroke-width="122.000114"
+              d="M 1000.797424,4925.047363 C 729.763977,5405.739746 -397.824615,5720.228027 -878.517029,5449.194824"
+              class="ZNF678 body fat distribution" stroke-opacity="1.0"
+              stroke="#d6432a"/>
+        <path fill="none" stroke-width="107.87532"
+              d="M 1000.797424,4925.047363 C 1577.420776,5128.330078 2137.431641,6298.189453 1934.148682,6874.812988"
+              class="ZNF678 BMI-adjusted waist circumference"
+              stroke-opacity="1.0" stroke="#ef7449"/>
+        <path fill="none" stroke-width="120.50314"
+              d="M 1000.797424,4925.047363 C 930.188232,3895.070801 2369.238770,2244.192383 3399.215332,2173.583252"
+              class="ZNF678 body height" stroke-opacity="1.0" stroke="#d8482d"/>
+        <path fill="none" stroke-width="108.76188"
+              d="M 3451.623291,31.954569 C 3869.467285,470.761871 3838.022705,1755.739136 3399.215332,2173.583252"
+              class="ZNF844 body height" stroke-opacity="1.0" stroke="#ed7147"/>
+        <path fill="none" stroke-width="129.8653"
+              d="M 4916.538574,3271.525391 C 4393.485352,3355.401611 3483.091553,2696.636230 3399.215332,2173.583252"
+              class="ZNF485 body height" stroke-opacity="1.0" stroke="#c72819"/>
+        <path fill="none" stroke-width="110.19138"
+              d="M 2218.639648,-18.253345 C 2893.122314,183.998871 3601.467529,1499.100708 3399.215332,2173.583252"
+              class="ZNF333 body height" stroke-opacity="1.0" stroke="#eb6c44"/>
+        <path fill="none" stroke-width="109.20393"
+              d="M -1880.328613,-11137.436523 C -1926.722534,-10959.477539 -2263.252197,-10762.128906 -2441.211426,-10808.523438"
+              class="ZNF90 viral load" stroke-opacity="1.0" stroke="#ec6f46"/>
+        <path fill="none" stroke-width="102.4388"
+              d="M 6362.098633,-2986.241699 C 5507.907227,-3516.808350 5022.470703,-5593.944336 5553.037109,-6448.135742"
+              class="ZNF169 refractive error measurement" stroke-opacity="1.0"
+              stroke="#f98755"/>
+        <path fill="none" stroke-width="112.28558"
+              d="M 6362.098633,-2986.241699 C 6703.712402,-2370.953369 6293.199707,-935.599976 5677.911133,-593.986511"
+              class="ZNF169 birth weight" stroke-opacity="1.0" stroke="#e7653f"/>
+        <path fill="none" stroke-width="102.30448"
+              d="M 6362.098633,-2986.241699 C 5846.151367,-1912.393921 3461.458496,-1075.543823 2387.610596,-1591.491333"
+              class="ZNF169 vital capacity" stroke-opacity="1.0"
+              stroke="#f98755"/>
+        <path fill="none" stroke-width="115.97085"
+              d="M 6362.098633,-2986.241699 C 6111.585938,-2222.206543 4589.764160,-1451.922852 3825.728760,-1702.435669"
+              class="ZNF169 forced expiratory volume" stroke-opacity="1.0"
+              stroke="#e05837"/>
+        <path fill="none" stroke-width="143.20312"
+              d="M 6362.098633,-2986.241699 C 7397.756348,-3282.440430 9395.541016,-2173.251465 9691.739258,-1137.593750"
+              class="ZNF169 Red cell distribution width" stroke-opacity="1.0"
+              stroke="#ac0000"/>
+        <path fill="none" stroke-width="123.92119"
+              d="M 6362.098633,-2986.241699 C 5600.733887,-2470.551758 3685.151123,-2839.064453 3169.461426,-3600.429443"
+              class="ZNF169 body mass index" stroke-opacity="1.0"
+              stroke="#d23d26"/>
+        <path fill="none" stroke-width="138.84819"
+              d="M 6362.098633,-2986.241699 C 6631.864746,-4350.413086 9082.770508,-5992.020508 10446.941406,-5722.254395"
+              class="ZNF169 mean corpuscular volume" stroke-opacity="1.0"
+              stroke="#b70905"/>
+        <path fill="none" stroke-width="116.58165"
+              d="M 6362.098633,-2986.241699 C 6801.487305,-1361.699951 5023.756836,1734.194824 3399.215332,2173.583252"
+              class="ZNF169 body height" stroke-opacity="1.0" stroke="#df5636"/>
+        <path fill="none" stroke-width="110.587845"
+              d="M -820.774902,8623.222656 C -594.976074,9255.189453 -1204.229126,10541.839844 -1836.196655,10767.638672"
+              class="ZNF354C cortical thickness" stroke-opacity="1.0"
+              stroke="#ea6b43"/>
+        <path fill="none" stroke-width="115.32106"
+              d="M -820.774902,8623.222656 C -1467.128906,7999.965332 -1501.774170,6095.548828 -878.517029,5449.194824"
+              class="ZNF354C body fat distribution" stroke-opacity="1.0"
+              stroke="#e25a39"/>
+        <path fill="none" stroke-width="104.866806"
+              d="M -820.774902,8623.222656 C 32.314972,8463.003906 1552.278320,9502.309570 1712.497559,10355.399414"
+              class="ZNF354C brain measurement" stroke-opacity="1.0"
+              stroke="#f47e50"/>
+        <path fill="none" stroke-width="123.315254"
+              d="M -820.774902,8623.222656 C -1771.772095,9075.694336 -3876.974365,8327.904297 -4329.445313,7376.907227"
+              class="ZNF354C FEV/FVC ratio" stroke-opacity="1.0"
+              stroke="#d33f27"/>
+        <path fill="none" stroke-width="130.65872"
+              d="M -820.774902,8623.222656 C -619.472168,7722.556152 1033.481934,6673.510254 1934.148682,6874.812988"
+              class="ZNF354C BMI-adjusted waist circumference"
+              stroke-opacity="1.0" stroke="#c62517"/>
+        <path fill="none" stroke-width="103.24712"
+              d="M -820.774902,8623.222656 C -1266.704834,6489.296875 1265.289307,2619.513184 3399.215332,2173.583252"
+              class="ZNF354C body height" stroke-opacity="1.0" stroke="#f78453"/>
+        <path fill="none" stroke-width="112.92405"
+              d="M 15262.930664,10074.670898 C 14953.111328,9826.291016 14860.954102,8988.994141 15109.333984,8679.174805"
+              class="ZNF484 bone quantitative ultrasound measurement"
+              stroke-opacity="1.0" stroke="#e6633e"/>
+        <path fill="none" stroke-width="152.92693"
+              d="M 15262.930664,10074.670898 C 15569.186523,10442.678711 15476.556641,11454.074219 15108.548828,11760.330078"
+              class="ZNF484 heel bone mineral density" stroke-opacity="1.0"
+              stroke="#870000"/>
+        <path fill="none" stroke-width="104.730995"
+              d="M 13901.764648,12262.378906 C 14042.710938,11920.612305 14766.782227,11619.383789 15108.548828,11760.330078"
+              class="ZNF283 heel bone mineral density" stroke-opacity="1.0"
+              stroke="#f47f50"/>
+        <path fill="none" stroke-width="113.559166"
+              d="M -8161.527344,-4853.281250 C -8747.581055,-4755.410645 -9773.468750,-5487.686035 -9871.338867,-6073.740234"
+              class="ZNF440 vitamin D measurement" stroke-opacity="1.0"
+              stroke="#e5603d"/>
+        <path fill="none" stroke-width="104.01266"
+              d="M -8161.527344,-4853.281250 C -7999.249023,-4004.323730 -9029.266602,-2487.468262 -9878.224609,-2325.189209"
+              class="ZNF440 leukocyte count" stroke-opacity="1.0"
+              stroke="#f68152"/>
+        <path fill="none" stroke-width="103.228386"
+              d="M -8161.527344,-4853.281250 C -7547.448730,-5522.763184 -5622.108887,-5605.869141 -4952.626953,-4991.790527"
+              class="ZNF440 neutrophil count" stroke-opacity="1.0"
+              stroke="#f78453"/>
+        <path fill="none" stroke-width="104.34031"
+              d="M -4945.854492,-3183.204590 C -4999.232422,-2749.032959 -5730.557129,-2177.842285 -6164.729004,-2231.220459"
+              class="ZNF425 neutrophil percentage of leukocytes"
+              stroke-opacity="1.0" stroke="#f58051"/>
+        <path fill="none" stroke-width="115.81424"
+              d="M -4945.854492,-3183.204590 C -5308.926270,-3543.567383 -5312.989746,-4628.718750 -4952.626953,-4991.790527"
+              class="ZNF425 neutrophil count" stroke-opacity="1.0"
+              stroke="#e15938"/>
+        <path fill="none" stroke-width="113.45574"
+              d="M -4180.046387,-5967.458984 C -4139.428711,-5617.809082 -4602.977051,-5032.408203 -4952.626953,-4991.790527"
+              class="ZNF101 neutrophil count" stroke-opacity="1.0"
+              stroke="#e5613d"/>
+        <path fill="none" stroke-width="111.81767"
+              d="M -2034.869385,17073.685547 C -2567.737793,16658.369141 -2744.065430,15236.092773 -2328.749023,14703.223633"
+              class="ZNF12 hemoglobin measurement" stroke-opacity="1.0"
+              stroke="#e86640"/>
+        <path fill="none" stroke-width="113.49121"
+              d="M -2034.869385,17073.685547 C -2502.357666,17275.837891 -3506.818115,16877.833984 -3708.970459,16410.345703"
+              class="ZNF12 hematocrit" stroke-opacity="1.0" stroke="#e5613d"/>
+        <path fill="none" stroke-width="188.37015"
+              d="M -2034.869385,17073.685547 C -1807.044800,16771.712891 -1012.350525,16660.494141 -710.378967,16888.318359"
+              class="ZNF12 IGF-1 measurement" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="102.44339"
+              d="M -10986.330078,-1940.405029 C -10841.666016,-2238.982910 -10176.802734,-2469.853516 -9878.224609,-2325.189209"
+              class="ZNF713 leukocyte count" stroke-opacity="1.0"
+              stroke="#f98755"/>
+        <path fill="none" stroke-width="153.67136"
+              d="M -1510.599365,-8186.284180 C -1418.479248,-8396.939453 -964.317383,-8574.740234 -753.662842,-8482.620117"
+              class="ZNF627 genetic disorder" stroke-opacity="1.0"
+              stroke="#840000"/>
+        <path fill="none" stroke-width="186.92484"
+              d="M -1510.599365,-8186.284180 C -1568.867310,-8008.620605 -1922.764282,-7829.527344 -2100.427734,-7887.795410"
+              class="ZNF627 Spondyloenchondrodysplasia with immune dysregulation"
+              stroke-opacity="1.0" stroke="#050000"/>
+        <path fill="none" stroke-width="167.67065"
+              d="M 3058.033936,-11720.484375 C 3148.568115,-11555.793945 3037.333496,-11172.957031 2872.643066,-11082.422852"
+              class="ZNF699 DEGCAGS syndrome" stroke-opacity="1.0"
+              stroke="#4f0000"/>
+        <path fill="none" stroke-width="121.58616"
+              d="M 3058.033936,-11720.484375 C 2909.323730,-12006.483398 3115.257080,-12658.546875 3401.255859,-12807.256836"
+              class="ZNF699 complex neurodevelopmental disorder"
+              stroke-opacity="1.0" stroke="#d6452b"/>
+        <path fill="none" stroke-width="139.46509"
+              d="M -9780.406250,-6766.207520 C -9660.099609,-6609.527344 -9714.659180,-6194.047363 -9871.338867,-6073.740234"
+              class="ZNF680 vitamin D measurement" stroke-opacity="1.0"
+              stroke="#b60704"/>
+        <path fill="none" stroke-width="116.3427"
+              d="M 9688.929688,9818.448242 C 9574.242188,9632.192383 9681.594727,9180.779297 9867.850586,9066.091797"
+              class="ZNF573 sex hormone-binding globulin measurement"
+              stroke-opacity="1.0" stroke="#e05737"/>
+        <path fill="none" stroke-width="108.84415"
+              d="M -4250.418457,8465.041016 C -4483.850586,8263.219727 -4531.267090,7610.339355 -4329.445313,7376.907227"
+              class="ZFP30 FEV/FVC ratio" stroke-opacity="1.0" stroke="#ed7147"/>
+        <path fill="none" stroke-width="123.119545"
+              d="M 19934.738281,-1816.812988 C 20190.953125,-1625.875244 20288.871094,-955.144714 20097.933594,-698.928833"
+              class="ZNF436 creatinine measurement" stroke-opacity="1.0"
+              stroke="#d43f28"/>
+        <path fill="none" stroke-width="135.90446"
+              d="M 19934.738281,-1816.812988 C 19423.916016,-2162.873535 19176.777344,-3448.195801 19522.837891,-3959.016602"
+              class="ZNF436 glomerular filtration rate" stroke-opacity="1.0"
+              stroke="#bd130c"/>
+        <path fill="none" stroke-width="116.966774"
+              d="M 18972.851563,-4601.908203 C 19211.427734,-4583.327148 19541.417969,-4197.592285 19522.837891,-3959.016602"
+              class="ZNF641 glomerular filtration rate" stroke-opacity="1.0"
+              stroke="#df5535"/>
+        <path fill="none" stroke-width="108.77917"
+              d="M 6858.246094,7229.710449 C 6752.859375,7912.645020 5570.377441,8778.966797 4887.442871,8673.581055"
+              class="ZNF799 testosterone measurement" stroke-opacity="1.0"
+              stroke="#ed7147"/>
+        <path fill="none" stroke-width="109.324936"
+              d="M 6858.246094,7229.710449 C 7403.466797,7845.793457 7297.173828,9587.748047 6681.090820,10132.968750"
+              class="ZNF799 monocyte count" stroke-opacity="1.0"
+              stroke="#ec6f46"/>
+        <path fill="none" stroke-width="121.64057"
+              d="M 6858.246094,7229.710449 C 7265.577148,6751.330566 8594.144531,6644.756348 9072.524414,7052.087402"
+              class="ZNF799 type 2 diabetes mellitus" stroke-opacity="1.0"
+              stroke="#d6442b"/>
+        <path fill="none" stroke-width="124.46356"
+              d="M 6858.246094,7229.710449 C 7827.443359,6995.065918 9633.206055,8096.894531 9867.850586,9066.091797"
+              class="ZNF799 sex hormone-binding globulin measurement"
+              stroke-opacity="1.0" stroke="#d13b25"/>
+        <path fill="none" stroke-width="111.71107"
+              d="M 6858.246094,7229.710449 C 5155.214355,6910.291016 3079.796143,3876.614746 3399.215332,2173.583252"
+              class="ZNF799 body height" stroke-opacity="1.0" stroke="#e86741"/>
+        <path fill="none" stroke-width="107.13855"
+              d="M 10391.571289,-11149.011719 C 9841.107422,-10659.475586 8281.106445,-10750.865234 7791.569824,-11301.329102"
+              class="ZNF429 thyroid disease" stroke-opacity="1.0"
+              stroke="#f0774b"/>
+        <path fill="none" stroke-width="108.84405"
+              d="M 10391.571289,-11149.011719 C 10104.012695,-10160.455078 8189.840820,-9108.958008 7201.284668,-9396.516602"
+              class="ZNF429 endocrine system disease" stroke-opacity="1.0"
+              stroke="#ed7147"/>
+        <path fill="none" stroke-width="108.84405"
+              d="M 10391.571289,-11149.011719 C 10024.741211,-11598.406250 10148.588867,-12822.745117 10597.983398,-13189.575195"
+              class="ZNF429 diabetes mellitus" stroke-opacity="1.0"
+              stroke="#ed7147"/>
+        <path fill="none" stroke-width="132.756"
+              d="M 10391.571289,-11149.011719 C 10962.690430,-11464.833984 12293.103516,-11081.887695 12608.925781,-10510.768555"
+              class="ZNF429 erythrocyte count" stroke-opacity="1.0"
+              stroke="#c21e13"/>
+        <path fill="none" stroke-width="126.38078"
+              d="M 10391.571289,-11149.011719 C 11487.997070,-10074.734375 11521.218750,-6818.680176 10446.941406,-5722.254395"
+              class="ZNF429 mean corpuscular volume" stroke-opacity="1.0"
+              stroke="#ce3421"/>
+        <path fill="none" stroke-width="132.9653"
+              d="M 2008.151001,-18578.384766 C 1947.807129,-18717.197266 2065.509766,-19015.931641 2204.322021,-19076.275391"
+              class="ZNF563 bilirubin measurement" stroke-opacity="1.0"
+              stroke="#c21d12"/>
+        <path fill="none" stroke-width="100.8906"
+              d="M 12976.083984,4062.429199 C 12909.936523,3852.425781 13125.720703,3438.199219 13335.723633,3372.051758"
+              class="ZNF519 protein measurement" stroke-opacity="1.0"
+              stroke="#fb8c58"/>
+        <path fill="none" stroke-width="106.28406"
+              d="M -17918.929688,9354.967773 C -17581.015625,9346.675781 -17061.703125,9841.109375 -17053.410156,10179.024414"
+              class="ZNF273 triglyceride measurement" stroke-opacity="1.0"
+              stroke="#f27a4d"/>
+        <path fill="none" stroke-width="106.28406"
+              d="M -17918.929688,9354.967773 C -18216.679688,9141.076172 -18342.468750,8373.613281 -18128.578125,8075.862793"
+              class="ZNF273 sleep duration" stroke-opacity="1.0"
+              stroke="#f27a4d"/>
+        <path fill="none" stroke-width="109.42754"
+              d="M -3411.366943,-17046.664063 C -3788.622314,-17251.828125 -4046.759033,-18125.458984 -3841.594971,-18502.712891"
+              class="ZNF596 Kallmann syndrome" stroke-opacity="1.0"
+              stroke="#ec6f46"/>
+        <path fill="none" stroke-width="109.42754"
+              d="M -3411.366943,-17046.664063 C -3304.720215,-16597.673828 -3818.233887,-15764.221680 -4267.222656,-15657.575195"
+              class="ZNF596 hypogonadotropic hypogonadism 5 with or without anosmia"
+              stroke-opacity="1.0" stroke="#ec6f46"/>
+        <path fill="none" stroke-width="116.75644"
+              d="M -3411.366943,-17046.664063 C -3064.242676,-17286.539063 -2183.744385,-17125.664063 -1943.870117,-16778.539063"
+              class="ZNF596 breast carcinoma" stroke-opacity="1.0"
+              stroke="#df5536"/>
+        <path fill="none" stroke-width="130.09653"
+              d="M -14623.411133,-7752.775391 C -14278.765625,-7798.302246 -13693.508789,-7349.624512 -13647.982422,-7004.979492"
+              class="PRDM9 recombination rate" stroke-opacity="1.0"
+              stroke="#c72719"/>
+        <path fill="none" stroke-width="116.16121"
+              d="M -14623.411133,-7752.775391 C -14535.318359,-8304.983398 -13574.866211,-9001.155273 -13022.658203,-8913.062500"
+              class="PRDM9 recombination measurement" stroke-opacity="1.0"
+              stroke="#e05737"/>
+        <path fill="none" stroke-width="152.25288"
+              d="M -14623.411133,-7752.775391 C -14747.545898,-7438.743652 -15404.796875,-7153.898926 -15718.828125,-7278.034180"
+              class="PRDM9 genetic non-acquired premature ovarian failure"
+              stroke-opacity="1.0" stroke="#8a0000"/>
+        <path fill="none" stroke-width="116.919624"
+              d="M 10534.538086,-867.208984 C 10311.901367,-752.726196 9806.221680,-914.957092 9691.739258,-1137.593750"
+              class="ZNF211 Red cell distribution width" stroke-opacity="1.0"
+              stroke="#df5535"/>
+        <path fill="none" stroke-width="121.58616"
+              d="M 6407.418945,20242.902344 C 6555.800293,20316.978516 6667.256836,20650.666016 6593.180176,20799.046875"
+              class="ZNF81 X-linked non-syndromic intellectual disability"
+              stroke-opacity="1.0" stroke="#d6452b"/>
+        <path fill="none" stroke-width="121.58616"
+              d="M -13937.670898,-13545.394531 C -13662.654297,-13648.079102 -13096.101563,-13389.582031 -12993.416992,-13114.565430"
+              class="ZNF141 postaxial polydactyly type A" stroke-opacity="1.0"
+              stroke="#d6452b"/>
+        <path fill="none" stroke-width="121.58616"
+              d="M -13937.670898,-13545.394531 C -14146.268555,-13355.189453 -14744.471680,-13382.778320 -14934.676758,-13591.375977"
+              class="ZNF141 polydactyly, postaxial, type A6"
+              stroke-opacity="1.0" stroke="#d6452b"/>
+        <path fill="none" stroke-width="103.558334"
+              d="M -21407.568359,-2708.855957 C -21564.705078,-2588.208252 -21981.378906,-2642.940918 -22102.027344,-2800.076904"
+              class="ZNF275 benign neoplasm of adrenal gland"
+              stroke-opacity="1.0" stroke="#f78352"/>
+        <path fill="none" stroke-width="105.48882"
+              d="M 16622.806641,-13523.831055 C 16789.378906,-13589.199219 17137.287109,-13437.395508 17202.656250,-13270.824219"
+              class="ZKSCAN8 type 1 diabetes mellitus" stroke-opacity="1.0"
+              stroke="#f37c4e"/>
+        <path fill="none" stroke-width="104.87663"
+              d="M 11606.143555,-19366.802734 C 11584.203125,-19548.056641 11823.173828,-19852.845703 12004.426758,-19874.787109"
+              class="ZNF496 monocyte percentage of leukocytes"
+              stroke-opacity="1.0" stroke="#f47e50"/>
+        <path fill="none" stroke-width="121.75988"
+              d="M -368.905823,-23161.410156 C -525.264526,-23195.970703 -707.962646,-23482.349609 -673.402649,-23638.707031"
+              class="ZKSCAN2 smoking status measurement" stroke-opacity="1.0"
+              stroke="#d6442b"/>
+        <path fill="none" stroke-width="105.55369"
+              d="M 9176.145508,3405.933838 C 9081.824219,2795.385986 9856.164063,1738.082031 10466.711914,1643.760742"
+              class="ZNF483 apolipoprotein A 1 measurement" stroke-opacity="1.0"
+              stroke="#f37c4e"/>
+        <path fill="none" stroke-width="154.69563"
+              d="M 9176.145508,3405.933838 C 8681.037109,3433.788086 7896.594727,2732.908203 7868.740234,2237.800537"
+              class="ZNF483 age at menarche" stroke-opacity="1.0"
+              stroke="#800000"/>
+        <path fill="none" stroke-width="135.92444"
+              d="M 9176.145508,3405.933838 C 9807.465820,3508.710693 10600.281250,4609.856445 10497.503906,5241.176758"
+              class="ZNF483 puberty onset measurement" stroke-opacity="1.0"
+              stroke="#bd130c"/>
+        <path fill="none" stroke-width="102.33684"
+              d="M 9176.145508,3405.933838 C 10001.285156,2567.241699 12497.031250,2546.912598 13335.723633,3372.051758"
+              class="ZNF483 protein measurement" stroke-opacity="1.0"
+              stroke="#f98755"/>
+        <path fill="none" stroke-width="138.35625"
+              d="M 9176.145508,3405.933838 C 7774.289551,4314.849609 4308.131348,3575.439453 3399.215332,2173.583252"
+              class="ZNF483 body height" stroke-opacity="1.0" stroke="#b80b06"/>
+        <path fill="none" stroke-width="103.28997"
+              d="M -5492.390625,6866.380371 C -5157.696289,6735.896973 -4459.928711,7042.212891 -4329.445313,7376.907227"
+              class="ZKSCAN1 FEV/FVC ratio" stroke-opacity="1.0"
+              stroke="#f78453"/>
+        <path fill="none" stroke-width="122.59938"
+              d="M -18798.882813,-1208.303711 C -18910.875000,-1330.659058 -18895.332031,-1682.181396 -18772.976563,-1794.174194"
+              class="ZNF446 Short stature" stroke-opacity="1.0" stroke="#d44129"/>
+        <path fill="none" stroke-width="132.25388"
+              d="M 14711.172852,-3892.989990 C 15438.518555,-3226.907715 15530.414063,-1136.765991 14864.332031,-409.420135"
+              class="ZNF777 diastolic blood pressure" stroke-opacity="1.0"
+              stroke="#c32014"/>
+        <path fill="none" stroke-width="126.176346"
+              d="M 14711.172852,-3892.989990 C 14984.691406,-4333.282227 16055.407227,-4583.441895 16495.699219,-4309.923340"
+              class="ZNF777 mean corpuscular hemoglobin" stroke-opacity="1.0"
+              stroke="#ce3521"/>
+        <path fill="none" stroke-width="107.762505"
+              d="M 14711.172852,-3892.989990 C 13917.949219,-4048.020020 12960.657227,-5470.401367 13115.687500,-6263.625977"
+              class="ZNF777 mean corpuscular hemoglobin concentration"
+              stroke-opacity="1.0" stroke="#ef7449"/>
+        <path fill="none" stroke-width="139.1549"
+              d="M 14711.172852,-3892.989990 C 13492.473633,-3405.996582 10933.935547,-4503.555176 10446.941406,-5722.254395"
+              class="ZNF777 mean corpuscular volume" stroke-opacity="1.0"
+              stroke="#b70805"/>
+        <path fill="none" stroke-width="107.21408"
+              d="M -19649.908203,-9166.301758 C -19836.582031,-9217.835938 -20039.296875,-9575.149414 -19987.761719,-9761.824219"
+              class="ZNF746 reticulocyte count" stroke-opacity="1.0"
+              stroke="#f0764b"/>
+        <path fill="none" stroke-width="128.36978"
+              d="M -3484.005615,-1184.690308 C -3303.482666,-900.794556 -3458.541992,-204.166626 -3742.437500,-23.643669"
+              class="ZNF282 eosinophil count" stroke-opacity="1.0"
+              stroke="#ca2d1c"/>
+        <path fill="none" stroke-width="114.50861"
+              d="M 16061.610352,12562.359375 C 15710.591797,12592.565430 15138.754883,12111.348633 15108.548828,11760.330078"
+              class="ZNF783 heel bone mineral density" stroke-opacity="1.0"
+              stroke="#e35d3b"/>
+        <path fill="none" stroke-width="113.87433"
+              d="M -7465.963867,-2.634484 C -7651.434082,-708.598633 -6870.693359,-2045.750244 -6164.729004,-2231.220459"
+              class="ZNF398 neutrophil percentage of leukocytes"
+              stroke-opacity="1.0" stroke="#e45f3c"/>
+        <path fill="none" stroke-width="117.84069"
+              d="M -7465.963867,-2.634484 C -8412.926758,15.306702 -9860.283203,-1378.226074 -9878.224609,-2325.189209"
+              class="ZNF398 leukocyte count" stroke-opacity="1.0"
+              stroke="#dd5233"/>
+        <path fill="none" stroke-width="112.6867"
+              d="M -7465.963867,-2.634484 C -7053.237305,573.609192 -7298.512695,2057.064453 -7874.756836,2469.791016"
+              class="ZNF398 myeloid white cell count" stroke-opacity="1.0"
+              stroke="#e6633f"/>
+        <path fill="none" stroke-width="134.06735"
+              d="M -7465.963867,-2.634484 C -7961.127930,-1503.133179 -6453.125977,-4496.626465 -4952.626953,-4991.790527"
+              class="ZNF398 neutrophil count" stroke-opacity="1.0"
+              stroke="#c01910"/>
+        <path fill="none" stroke-width="137.23373"
+              d="M -7465.963867,-2.634484 C -6725.460449,-751.541626 -4491.344238,-764.147156 -3742.437500,-23.643669"
+              class="ZNF398 eosinophil count" stroke-opacity="1.0"
+              stroke="#ba0e09"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="960" x="3399.2153" y="2395.927"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="body height" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="150.0px">
+            body height
+        </text>
+        <text stroke-linecap="round" font-size="600" x="-12616.376"
+              y="5176.8306" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF229" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="93.75px">
+            ZNF229
+        </text>
+        <text stroke-linecap="round" font-size="528" x="-0.008893123"
+              y="96.50594" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF184" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="82.5px">
+            ZNF184
+        </text>
+        <text stroke-linecap="round" font-size="528" x="-3742.4375" y="97.09852"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="eosinophil count" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="82.5px">
+            eosinophil count
+        </text>
+        <text stroke-linecap="round" font-size="456" x="10446.941" y="-5617.977"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="mean corpuscular volume"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="71.25px">
+            mean corpuscular volume
+        </text>
+        <text stroke-linecap="round" font-size="600" x="-3340.6318"
+              y="2778.0332" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZFP90" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="93.75px">
+            ZFP90
+        </text>
+        <text stroke-linecap="round" font-size="456" x="1000.7974" y="5008.395"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF678" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="71.25px">
+            ZNF678
+        </text>
+        <text stroke-linecap="round" font-size="744" x="6362.0986"
+              y="-2850.2534" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF169" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="116.25px">
+            ZNF169
+        </text>
+        <text stroke-linecap="round" font-size="600" x="-820.7749" y="8734.355"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF354C" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="93.75px">
+            ZNF354C
+        </text>
+        <text stroke-linecap="round" font-size="456" x="-4952.627" y="-4887.513"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="neutrophil count" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="71.25px">
+            neutrophil count
+        </text>
+        <text stroke-linecap="round" font-size="528" x="6858.246" y="7326.2183"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF799" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="82.5px">
+            ZNF799
+        </text>
+        <text stroke-linecap="round" font-size="528" x="10391.571"
+              y="-11052.504" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF429" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="82.5px">
+            ZNF429
+        </text>
+        <text stroke-linecap="round" font-size="528" x="9176.1455" y="3502.4846"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF483" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="82.5px">
+            ZNF483
+        </text>
+        <text stroke-linecap="round" font-size="456" x="14711.173"
+              y="-3811.3865" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF777" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="71.25px">
+            ZNF777
+        </text>
+        <text stroke-linecap="round" font-size="528" x="-7465.964" y="93.9163"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF398" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="82.5px">
+            ZNF398
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="960" x="3399.2153" y="2395.927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="body height">
+            body height
+        </text>
+        <text font-size="600" x="-12616.376" y="5176.8306" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF229">
+            ZNF229
+        </text>
+        <text font-size="528" x="-0.008893123" y="96.50594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF184">
+            ZNF184
+        </text>
+        <text font-size="528" x="-3742.4375" y="97.09852" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="eosinophil count">
+            eosinophil count
+        </text>
+        <text font-size="456" x="10446.941" y="-5617.977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="mean corpuscular volume">
+            mean corpuscular volume
+        </text>
+        <text font-size="600" x="-3340.6318" y="2778.0332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZFP90">
+            ZFP90
+        </text>
+        <text font-size="456" x="1000.7974" y="5008.395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF678">
+            ZNF678
+        </text>
+        <text font-size="744" x="6362.0986" y="-2850.2534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF169">
+            ZNF169
+        </text>
+        <text font-size="600" x="-820.7749" y="8734.355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF354C">
+            ZNF354C
+        </text>
+        <text font-size="456" x="-4952.627" y="-4887.513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="neutrophil count">
+            neutrophil count
+        </text>
+        <text font-size="528" x="6858.246" y="7326.2183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF799">
+            ZNF799
+        </text>
+        <text font-size="528" x="10391.571" y="-11052.504" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF429">
+            ZNF429
+        </text>
+        <text font-size="528" x="9176.1455" y="3502.4846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF483">
+            ZNF483
+        </text>
+        <text font-size="456" x="14711.173" y="-3811.3865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF777">
+            ZNF777
+        </text>
+        <text font-size="528" x="-7465.964" y="93.9163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF398">
+            ZNF398
+        </text>
+    </g>
+</svg>

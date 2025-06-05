@@ -1,0 +1,177 @@
+Id,Label,Type,Domain_Type
+ZNF736,ZNF736,ZNF,KRAB
+ZNF100,ZNF100,ZNF,KRAB
+ZNF808,ZNF808,ZNF,KRAB
+ZNF251,ZNF251,ZNF,KRAB
+ZNF268,ZNF268,ZNF,KRAB
+ZNF208,ZNF208,ZNF,KRAB
+ZNF675,ZNF675,ZNF,KRAB
+ZNF726,ZNF726,ZNF,KRAB
+ZNF728,ZNF728,ZNF,KRAB
+ZNF98,ZNF98,ZNF,KRAB
+ZNF133,ZNF133,ZNF,KRAB
+ZNF816,ZNF816,ZNF,KRAB
+ZNF471,ZNF471,ZNF,KRAB
+ZNF470,ZNF470,ZNF,KRAB
+ZNF19,ZNF19,ZNF,KRAB
+ZNF229,ZNF229,ZNF,KRAB
+ZNF676,ZNF676,ZNF,KRAB
+ZFP1,ZFP1,ZNF,KRAB
+ZNF184,ZNF184,ZNF,KRAB
+ZNF823,ZNF823,ZNF,KRAB
+ZFP57,ZFP57,ZNF,KRAB
+ZNF605,ZNF605,ZNF,KRAB
+ZNF789,ZNF789,ZNF,KRAB
+ZNF132,ZNF132,ZNF,KRAB
+ZNF584,ZNF584,ZNF,KRAB
+ZNF585A,ZNF585A,ZNF,KRAB
+ZNF487,ZNF487,ZNF,KRAB
+ZNF320,ZNF320,ZNF,KRAB
+ZFP90,ZFP90,ZNF,KRAB
+ZNF678,ZNF678,ZNF,KRAB
+ZNF844,ZNF844,ZNF,KRAB
+ZNF485,ZNF485,ZNF,KRAB
+ZNF333,ZNF333,ZNF,KRAB
+ZNF90,ZNF90,ZNF,KRAB
+ZNF169,ZNF169,ZNF,KRAB
+ZNF354C,ZNF354C,ZNF,KRAB
+ZNF484,ZNF484,ZNF,KRAB
+ZNF283,ZNF283,ZNF,KRAB
+ZNF440,ZNF440,ZNF,KRAB
+ZNF425,ZNF425,ZNF,KRAB
+ZNF101,ZNF101,ZNF,KRAB
+ZNF12,ZNF12,ZNF,KRAB
+ZNF713,ZNF713,ZNF,KRAB
+ZNF627,ZNF627,ZNF,KRAB
+ZNF699,ZNF699,ZNF,KRAB
+ZNF680,ZNF680,ZNF,KRAB
+ZNF573,ZNF573,ZNF,KRAB
+ZFP30,ZFP30,ZNF,KRAB
+ZNF436,ZNF436,ZNF,KRAB
+ZNF641,ZNF641,ZNF,KRAB
+ZNF799,ZNF799,ZNF,KRAB
+ZNF429,ZNF429,ZNF,KRAB
+ZNF563,ZNF563,ZNF,KRAB
+ZNF519,ZNF519,ZNF,KRAB
+ZNF273,ZNF273,ZNF,KRAB
+ZNF596,ZNF596,ZNF,KRAB
+PRDM9,PRDM9,ZNF,KRAB
+ZNF211,ZNF211,ZNF,KRAB
+ZNF81,ZNF81,ZNF,KRAB
+ZNF141,ZNF141,ZNF,KRAB
+ZNF275,ZNF275,ZNF,KRAB
+ZKSCAN8,ZKSCAN8,ZNF,SCAN
+ZNF496,ZNF496,ZNF,SCAN
+ZKSCAN2,ZKSCAN2,ZNF,SCAN
+ZNF483,ZNF483,ZNF,SCAN
+ZKSCAN1,ZKSCAN1,ZNF,SCAN
+ZNF446,ZNF446,ZNF,SCAN
+ZNF777,ZNF777,ZNF,DUF
+ZNF746,ZNF746,ZNF,DUF
+ZNF282,ZNF282,ZNF,DUF
+ZNF783,ZNF783,ZNF,DUF
+ZNF398,ZNF398,ZNF,DUF
+adolescent idiopathic scoliosis,adolescent idiopathic scoliosis,Disease,Disease
+PHF-tau measurement,PHF-tau measurement,Disease,Disease
+systolic blood pressure,systolic blood pressure,Disease,Disease
+diastolic blood pressure,diastolic blood pressure,Disease,Disease
+neonatal diabetes mellitus,neonatal diabetes mellitus,Disease,Disease
+pancreatic agenesis,pancreatic agenesis,Disease,Disease
+serum alanine aminotransferase measurement,serum alanine aminotransferase measurement,Disease,Disease
+cardiovascular disease,cardiovascular disease,Disease,Disease
+BMI-adjusted waist-hip ratio,BMI-adjusted waist-hip ratio,Disease,Disease
+waist-hip ratio,waist-hip ratio,Disease,Disease
+benign neoplasm,benign neoplasm,Disease,Disease
+brain measurement,brain measurement,Disease,Disease
+cortical surface area measurement,cortical surface area measurement,Disease,Disease
+Testicular Germ Cell Tumor,Testicular Germ Cell Tumor,Disease,Disease
+age at menopause,age at menopause,Disease,Disease
+menopause,menopause,Disease,Disease
+Young adult-onset Parkinsonism,Young adult-onset Parkinsonism,Disease,Disease
+bone density,bone density,Disease,Disease
+urate measurement,urate measurement,Disease,Disease
+body mass index,body mass index,Disease,Disease
+blood phosphate measurement,blood phosphate measurement,Disease,Disease
+body height,body height,Disease,Disease
+alkaline phosphatase measurement,alkaline phosphatase measurement,Disease,Disease
+low density lipoprotein cholesterol measurement,low density lipoprotein cholesterol measurement,Disease,Disease
+cholesteryl ester measurement,cholesteryl ester measurement,Disease,Disease
+free cholesterol in small LDL measurement ,free cholesterol in small LDL measurement ,Disease,Disease
+phospholipids in small LDL measurement ,phospholipids in small LDL measurement ,Disease,Disease
+total cholesterol measurement,total cholesterol measurement,Disease,Disease
+apolipoprotein B measurement,apolipoprotein B measurement,Disease,Disease
+telomere length,telomere length,Disease,Disease
+IGF-1 measurement,IGF-1 measurement,Disease,Disease
+lymphocyte count,lymphocyte count,Disease,Disease
+depressive symptom measurement,depressive symptom measurement,Disease,Disease
+neuroticism measurement,neuroticism measurement,Disease,Disease
+mathematical ability,mathematical ability,Disease,Disease
+eosinophil count,eosinophil count,Disease,Disease
+schizophrenia,schizophrenia,Disease,Disease
+"transient neonatal diabetes, dominant/recessive","transient neonatal diabetes, dominant/recessive",Disease,Disease
+transient neonatal diabetes mellitus,transient neonatal diabetes mellitus,Disease,Disease
+mean corpuscular hemoglobin concentration,mean corpuscular hemoglobin concentration,Disease,Disease
+mean corpuscular volume,mean corpuscular volume,Disease,Disease
+platelet count,platelet count,Disease,Disease
+platelet crit,platelet crit,Disease,Disease
+monocyte count,monocyte count,Disease,Disease
+systemic lupus erythematosus,systemic lupus erythematosus,Disease,Disease
+Hepatic fibrosis,Hepatic fibrosis,Disease,Disease
+psoriasis,psoriasis,Disease,Disease
+ulcerative colitis,ulcerative colitis,Disease,Disease
+BMI-adjusted hip circumference,BMI-adjusted hip circumference,Disease,Disease
+body fat distribution,body fat distribution,Disease,Disease
+BMI-adjusted waist circumference,BMI-adjusted waist circumference,Disease,Disease
+viral load,viral load,Disease,Disease
+refractive error measurement,refractive error measurement,Disease,Disease
+birth weight,birth weight,Disease,Disease
+vital capacity,vital capacity,Disease,Disease
+forced expiratory volume,forced expiratory volume,Disease,Disease
+Red cell distribution width,Red cell distribution width,Disease,Disease
+cortical thickness,cortical thickness,Disease,Disease
+FEV/FVC ratio,FEV/FVC ratio,Disease,Disease
+bone quantitative ultrasound measurement,bone quantitative ultrasound measurement,Disease,Disease
+heel bone mineral density,heel bone mineral density,Disease,Disease
+vitamin D measurement,vitamin D measurement,Disease,Disease
+leukocyte count,leukocyte count,Disease,Disease
+neutrophil count,neutrophil count,Disease,Disease
+neutrophil percentage of leukocytes,neutrophil percentage of leukocytes,Disease,Disease
+hemoglobin measurement,hemoglobin measurement,Disease,Disease
+hematocrit,hematocrit,Disease,Disease
+genetic disorder,genetic disorder,Disease,Disease
+Spondyloenchondrodysplasia with immune dysregulation,Spondyloenchondrodysplasia with immune dysregulation,Disease,Disease
+DEGCAGS syndrome,DEGCAGS syndrome,Disease,Disease
+complex neurodevelopmental disorder,complex neurodevelopmental disorder,Disease,Disease
+sex hormone-binding globulin measurement,sex hormone-binding globulin measurement,Disease,Disease
+creatinine measurement,creatinine measurement,Disease,Disease
+glomerular filtration rate,glomerular filtration rate,Disease,Disease
+testosterone measurement,testosterone measurement,Disease,Disease
+type 2 diabetes mellitus,type 2 diabetes mellitus,Disease,Disease
+thyroid disease,thyroid disease,Disease,Disease
+endocrine system disease,endocrine system disease,Disease,Disease
+diabetes mellitus,diabetes mellitus,Disease,Disease
+erythrocyte count,erythrocyte count,Disease,Disease
+bilirubin measurement,bilirubin measurement,Disease,Disease
+protein measurement,protein measurement,Disease,Disease
+triglyceride measurement,triglyceride measurement,Disease,Disease
+sleep duration,sleep duration,Disease,Disease
+Kallmann syndrome,Kallmann syndrome,Disease,Disease
+hypogonadotropic hypogonadism 5 with or without anosmia,hypogonadotropic hypogonadism 5 with or without anosmia,Disease,Disease
+breast carcinoma,breast carcinoma,Disease,Disease
+recombination rate,recombination rate,Disease,Disease
+recombination measurement,recombination measurement,Disease,Disease
+genetic non-acquired premature ovarian failure,genetic non-acquired premature ovarian failure,Disease,Disease
+X-linked non-syndromic intellectual disability,X-linked non-syndromic intellectual disability,Disease,Disease
+postaxial polydactyly type A,postaxial polydactyly type A,Disease,Disease
+"polydactyly, postaxial, type A6","polydactyly, postaxial, type A6",Disease,Disease
+benign neoplasm of adrenal gland,benign neoplasm of adrenal gland,Disease,Disease
+type 1 diabetes mellitus,type 1 diabetes mellitus,Disease,Disease
+monocyte percentage of leukocytes,monocyte percentage of leukocytes,Disease,Disease
+smoking status measurement,smoking status measurement,Disease,Disease
+apolipoprotein A 1 measurement,apolipoprotein A 1 measurement,Disease,Disease
+age at menarche,age at menarche,Disease,Disease
+puberty onset measurement,puberty onset measurement,Disease,Disease
+Short stature,Short stature,Disease,Disease
+mean corpuscular hemoglobin,mean corpuscular hemoglobin,Disease,Disease
+reticulocyte count,reticulocyte count,Disease,Disease
+myeloid white cell count,myeloid white cell count,Disease,Disease
