@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="42570.87"
+<svg contentScriptType="text/ecmascript" width="42565.87"
      xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
      contentStyleType="text/css"
-     viewBox="-22282.000000 -23819.000000 42570.871094 44798.000000"
-     height="44798.0" preserveAspectRatio="xMidYMid meet"
+     viewBox="-22277.000000 -23814.000000 42565.871094 44788.000000"
+     height="44788.0" preserveAspectRatio="xMidYMid meet"
      xmlns="http://www.w3.org/2000/svg" version="1.1">
     <g id="edges">
         <path fill="none" stroke-width="101.35842"
@@ -591,114 +591,750 @@
               class="ZNF398 eosinophil count" stroke-opacity="1.0"
               stroke="#ba0e09"/>
     </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="-9638.618"
+                class="ZNF736" cy="-17464.414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-8442.512"
+                class="adolescent idiopathic scoliosis" cy="-18055.41"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-10011.116"
+                class="PHF-tau measurement" cy="-16126.945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="15541.588"
+                class="ZNF100" cy="808.7814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="16183.873"
+                class="systolic blood pressure" cy="1652.5336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="14864.332"
+                class="diastolic blood pressure" cy="-409.42014"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="5800.7686"
+                class="ZNF808" cy="-16304.789" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="4780.0654"
+                class="neonatal diabetes mellitus" cy="-15856.842"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="6876.996"
+                class="pancreatic agenesis" cy="-16231.554" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-14894.487"
+                class="ZNF251" cy="-2247.5444" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-15393.826"
+                class="serum alanine aminotransferase measurement"
+                cy="-2794.3396" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="-6548.2754"
+                class="ZNF268" cy="-10632.056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-6151.843"
+                class="cardiovascular disease" cy="-12178.419" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-5357.633"
+                class="BMI-adjusted waist-hip ratio" cy="-9491.802"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-7792.1787"
+                class="waist-hip ratio" cy="-9623.359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-12752.838"
+                class="ZNF208" cy="15904.016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-13303.233"
+                class="benign neoplasm" cy="15370.606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="2304.274"
+                class="ZNF675" cy="11903.234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="1712.4976"
+                class="brain measurement" cy="10355.399" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="3011.174"
+                class="cortical surface area measurement" cy="12523.009"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-8210.375"
+                class="ZNF726" cy="9582.673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-8509.864"
+                class="Testicular Germ Cell Tumor" cy="10254.097"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="-9641.66"
+                class="ZNF728" cy="13151.403" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-8517.53"
+                class="age at menopause" cy="14080.172" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-11294.72"
+                class="menopause" cy="12072.828" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-6067.3525"
+                class="ZNF98" cy="18588.64" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-5673.953"
+                class="Young adult-onset Parkinsonism" cy="19154.506"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="1986.3303"
+                class="ZNF133" cy="-4195.7476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="1447.9193"
+                class="bone density" cy="-2700.3577" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="2617.439"
+                class="urate measurement" cy="-6035.989" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="3169.4614"
+                class="body mass index" cy="-3600.4294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="1468.0364"
+                class="ZNF816" cy="-6959.785" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="1706.89"
+                class="blood phosphate measurement" cy="-8121.9727"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="1252.0634"
+                class="ZNF471" cy="2174.743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="600.0" cx="3399.2153"
+                class="body height" cy="2173.5833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="8714.486"
+                class="ZNF470" cy="14967.853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="9349.843"
+                class="alkaline phosphatase measurement" cy="15024.638"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-13704.51"
+                class="ZNF19" cy="1601.4763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-13724.098"
+                class="low density lipoprotein cholesterol measurement"
+                cy="2475.3774" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="375.0" cx="-12616.376"
+                class="ZNF229" cy="5067.1626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-10600.472"
+                class="cholesteryl ester measurement" cy="2547.1477"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-9113.533"
+                class="free cholesterol in small LDL measurement " cy="4658.997"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-12253.631"
+                class="phospholipids in small LDL measurement " cy="7817.024"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-9996.669"
+                class="total cholesterol measurement" cy="6140.7983"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-14594.115"
+                class="apolipoprotein B measurement" cy="5230.799"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="1638.428"
+                class="ZNF676" cy="16547.498" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="2847.4094"
+                class="telomere length" cy="16018.871" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-710.37897"
+                class="IGF-1 measurement" cy="16888.318" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="666.27856"
+                class="ZFP1" cy="1066.7013" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-253.56882"
+                class="lymphocyte count" cy="1076.6672" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="330.0" cx="-0.008893123"
+                class="ZNF184" cy="-0.0018679271" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="835.11365"
+                class="depressive symptom measurement" cy="-1184.3251"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="16.437782"
+                class="neuroticism measurement" cy="-1018.3779" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="1030.7123"
+                class="mathematical ability" cy="-318.62457" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="330.0" cx="-3742.4375"
+                class="eosinophil count" cy="-23.64367" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-4733.515"
+                class="ZNF823" cy="11747.563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-4862.752"
+                class="schizophrenia" cy="12290.741" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="-301.34003"
+                class="ZFP57" cy="-3235.8489" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-783.236"
+                class="transient neonatal diabetes, dominant/recessive"
+                cy="-3970.2607" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="61.5723"
+                class="transient neonatal diabetes mellitus" cy="-2695.8442"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="13695.9375"
+                class="ZNF605" cy="-6867.3115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="13115.6875"
+                class="mean corpuscular hemoglobin concentration" cy="-6263.626"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="9284.648"
+                class="ZNF789" cy="-5956.4253" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="285.0" cx="10446.941"
+                class="mean corpuscular volume" cy="-5722.2544" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-675.2471"
+                class="ZNF132" cy="-1477.2625" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="240.0" cx="-1568.503"
+                class="platelet count" cy="-1508.0743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-1989.8322"
+                class="ZNF584" cy="-2457.6377" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="1888.8032"
+                class="ZNF585A" cy="990.75555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="-1602.7142"
+                class="ZNF487" cy="-24.52757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-1637.9565"
+                class="platelet crit" cy="1191.7898" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="5974.6245"
+                class="ZNF320" cy="10475.19" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="6681.091"
+                class="monocyte count" cy="10132.969" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="375.0" cx="-3340.6318"
+                class="ZFP90" cy="2668.3652" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-5364.585"
+                class="systemic lupus erythematosus" cy="3759.364"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-2978.1526"
+                class="Hepatic fibrosis" cy="4649.411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-774.90234"
+                class="psoriasis" cy="2227.5493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-1572.8237"
+                class="ulcerative colitis" cy="3216.2053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="285.0" cx="1000.7974"
+                class="ZNF678" cy="4925.0474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-25.101332"
+                class="BMI-adjusted hip circumference" cy="3528.4956"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-878.517"
+                class="body fat distribution" cy="5449.195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="1934.1487"
+                class="BMI-adjusted waist circumference" cy="6874.813"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="3451.6233"
+                class="ZNF844" cy="31.954569" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="4916.5386"
+                class="ZNF485" cy="3271.5254" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="2218.6396"
+                class="ZNF333" cy="-18.253345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-1880.3286"
+                class="ZNF90" cy="-11137.437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-2441.2114"
+                class="viral load" cy="-10808.523" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="465.0" cx="6362.0986"
+                class="ZNF169" cy="-2986.2417" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="5553.037"
+                class="refractive error measurement" cy="-6448.1357"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="5677.911"
+                class="birth weight" cy="-593.9865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="2387.6106"
+                class="vital capacity" cy="-1591.4913" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="3825.7288"
+                class="forced expiratory volume" cy="-1702.4357"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="9691.739"
+                class="Red cell distribution width" cy="-1137.5938"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="375.0" cx="-820.7749"
+                class="ZNF354C" cy="8623.223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-1836.1967"
+                class="cortical thickness" cy="10767.639" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="240.0" cx="-4329.4453"
+                class="FEV/FVC ratio" cy="7376.907" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="15262.931"
+                class="ZNF484" cy="10074.671" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="15109.334"
+                class="bone quantitative ultrasound measurement" cy="8679.175"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="240.0" cx="15108.549"
+                class="heel bone mineral density" cy="11760.33" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="13901.765"
+                class="ZNF283" cy="12262.379" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="-8161.5273"
+                class="ZNF440" cy="-4853.2812" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-9871.339"
+                class="vitamin D measurement" cy="-6073.74" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="240.0" cx="-9878.225"
+                class="leukocyte count" cy="-2325.1892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="285.0" cx="-4952.627"
+                class="neutrophil count" cy="-4991.7905" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="-4945.8545"
+                class="ZNF425" cy="-3183.2046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="-6164.729"
+                class="neutrophil percentage of leukocytes" cy="-2231.2205"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-4180.0464"
+                class="ZNF101" cy="-5967.459" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="-2034.8694"
+                class="ZNF12" cy="17073.686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-2328.749"
+                class="hemoglobin measurement" cy="14703.224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-3708.9705"
+                class="hematocrit" cy="16410.346" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-10986.33"
+                class="ZNF713" cy="-1940.405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="-1510.5994"
+                class="ZNF627" cy="-8186.284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-753.66284"
+                class="genetic disorder" cy="-8482.62" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-2100.4277"
+                class="Spondyloenchondrodysplasia with immune dysregulation"
+                cy="-7887.7954" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="3058.034"
+                class="ZNF699" cy="-11720.484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="2872.643"
+                class="DEGCAGS syndrome" cy="-11082.423" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="3401.2559"
+                class="complex neurodevelopmental disorder" cy="-12807.257"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-9780.406"
+                class="ZNF680" cy="-6766.2075" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="9688.93"
+                class="ZNF573" cy="9818.448" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="9867.851"
+                class="sex hormone-binding globulin measurement" cy="9066.092"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-4250.4185"
+                class="ZFP30" cy="8465.041" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="19934.738"
+                class="ZNF436" cy="-1816.813" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="20097.934"
+                class="creatinine measurement" cy="-698.92883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="19522.838"
+                class="glomerular filtration rate" cy="-3959.0166"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="18972.852"
+                class="ZNF641" cy="-4601.908" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="330.0" cx="6858.246"
+                class="ZNF799" cy="7229.7104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="4887.443"
+                class="testosterone measurement" cy="8673.581" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="9072.524"
+                class="type 2 diabetes mellitus" cy="7052.0874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="330.0" cx="10391.571"
+                class="ZNF429" cy="-11149.012" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="7791.57"
+                class="thyroid disease" cy="-11301.329" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="7201.2847"
+                class="endocrine system disease" cy="-9396.517" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="10597.983"
+                class="diabetes mellitus" cy="-13189.575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="12608.926"
+                class="erythrocyte count" cy="-10510.769" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="2008.151"
+                class="ZNF563" cy="-18578.385" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="2204.322"
+                class="bilirubin measurement" cy="-19076.275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="12976.084"
+                class="ZNF519" cy="4062.4292" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="195.0" cx="13335.724"
+                class="protein measurement" cy="3372.0518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="-17918.93"
+                class="ZNF273" cy="9354.968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-17053.41"
+                class="triglyceride measurement" cy="10179.024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-18128.578"
+                class="sleep duration" cy="8075.863" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="-3411.367"
+                class="ZNF596" cy="-17046.664" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-3841.595"
+                class="Kallmann syndrome" cy="-18502.713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-4267.2227"
+                class="hypogonadotropic hypogonadism 5 with or without anosmia"
+                cy="-15657.575" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-1943.8701"
+                class="breast carcinoma" cy="-16778.54" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="240.0" cx="-14623.411"
+                class="PRDM9" cy="-7752.7754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-13647.982"
+                class="recombination rate" cy="-7004.9795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-13022.658"
+                class="recombination measurement" cy="-8913.0625"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-15718.828"
+                class="genetic non-acquired premature ovarian failure"
+                cy="-7278.034" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="10534.538"
+                class="ZNF211" cy="-867.209" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="6407.419"
+                class="ZNF81" cy="20242.902" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="6593.18"
+                class="X-linked non-syndromic intellectual disability"
+                cy="20799.047" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="195.0" cx="-13937.671"
+                class="ZNF141" cy="-13545.395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-12993.417"
+                class="postaxial polydactyly type A" cy="-13114.565"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-14934.677"
+                class="polydactyly, postaxial, type A6" cy="-13591.376"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#059eff" r="150.0" cx="-21407.568"
+                class="ZNF275" cy="-2708.856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-22102.027"
+                class="benign neoplasm of adrenal gland" cy="-2800.077"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ebd300" r="150.0" cx="16622.807"
+                class="ZKSCAN8" cy="-13523.831" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="17202.656"
+                class="type 1 diabetes mellitus" cy="-13270.824"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ebd300" r="150.0" cx="11606.144"
+                class="ZNF496" cy="-19366.803" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="12004.427"
+                class="monocyte percentage of leukocytes" cy="-19874.787"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ebd300" r="150.0" cx="-368.90582"
+                class="ZKSCAN2" cy="-23161.41" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-673.40265"
+                class="smoking status measurement" cy="-23638.707"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ebd300" r="330.0" cx="9176.1455"
+                class="ZNF483" cy="3405.9338" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="10466.712"
+                class="apolipoprotein A 1 measurement" cy="1643.7607"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="7868.74"
+                class="age at menarche" cy="2237.8005" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="10497.504"
+                class="puberty onset measurement" cy="5241.177" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ebd300" r="150.0" cx="-5492.3906"
+                class="ZKSCAN1" cy="6866.3804" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ebd300" r="150.0" cx="-18798.883"
+                class="ZNF446" cy="-1208.3037" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-18772.977"
+                class="Short stature" cy="-1794.1742" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#0fb800" r="285.0" cx="14711.173"
+                class="ZNF777" cy="-3892.99" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="16495.7"
+                class="mean corpuscular hemoglobin" cy="-4309.9233"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#0fb800" r="150.0" cx="-19649.908"
+                class="ZNF746" cy="-9166.302" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-19987.762"
+                class="reticulocyte count" cy="-9761.824" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#0fb800" r="150.0" cx="-3484.0056"
+                class="ZNF282" cy="-1184.6903" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#0fb800" r="150.0" cx="16061.61"
+                class="ZNF783" cy="12562.359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#0fb800" r="330.0" cx="-7465.964"
+                class="ZNF398" cy="-2.634484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+        <circle fill-opacity="1.0" fill="#ff1f1f" r="150.0" cx="-7874.757"
+                class="myeloid white cell count" cy="2469.791" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="50.0"/>
+    </g>
     <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="384" x="-6548.2754"
+              y="-10561.868" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF268" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            ZNF268
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-9641.66" y="13221.591"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF728" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            ZNF728
+        </text>
+        <text stroke-linecap="round" font-size="384" x="1986.3303" y="-4125.529"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF133" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            ZNF133
+        </text>
         <text stroke-linecap="round" font-size="960" x="3399.2153" y="2395.927"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="body height" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="150.0px">
+              stroke-opacity="0.8" stroke-width="300.0px">
             body height
         </text>
         <text stroke-linecap="round" font-size="600" x="-12616.376"
               y="5176.8306" fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF229" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="93.75px">
+              stroke-opacity="0.8" stroke-width="187.5px">
             ZNF229
         </text>
         <text stroke-linecap="round" font-size="528" x="-0.008893123"
               y="96.50594" fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF184" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="82.5px">
+              stroke-opacity="0.8" stroke-width="165.0px">
             ZNF184
         </text>
         <text stroke-linecap="round" font-size="528" x="-3742.4375" y="97.09852"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="eosinophil count" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="82.5px">
+              stroke-opacity="0.8" stroke-width="165.0px">
             eosinophil count
         </text>
         <text stroke-linecap="round" font-size="456" x="10446.941" y="-5617.977"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="mean corpuscular volume"
-              stroke="#ffffff" stroke-opacity="0.8" stroke-width="71.25px">
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="142.5px">
             mean corpuscular volume
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-1568.503"
+              y="-1420.2618" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="platelet count" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            platelet count
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-1602.7142"
+              y="45.659927" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF487" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            ZNF487
         </text>
         <text stroke-linecap="round" font-size="600" x="-3340.6318"
               y="2778.0332" fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZFP90" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="93.75px">
+              stroke-opacity="0.8" stroke-width="187.5px">
             ZFP90
         </text>
         <text stroke-linecap="round" font-size="456" x="1000.7974" y="5008.395"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF678" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="71.25px">
+              stroke-opacity="0.8" stroke-width="142.5px">
             ZNF678
         </text>
         <text stroke-linecap="round" font-size="744" x="6362.0986"
               y="-2850.2534" fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF169" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="116.25px">
+              stroke-opacity="0.8" stroke-width="232.5px">
             ZNF169
         </text>
         <text stroke-linecap="round" font-size="600" x="-820.7749" y="8734.355"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF354C" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="93.75px">
+              stroke-opacity="0.8" stroke-width="187.5px">
             ZNF354C
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-4329.4453" y="7448.001"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="FEV/FVC ratio" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            FEV/FVC ratio
+        </text>
+        <text stroke-linecap="round" font-size="384" x="15108.549" y="11849.268"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="heel bone mineral density"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="120.0px">
+            heel bone mineral density
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-8161.5273"
+              y="-4783.0938" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF440" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            ZNF440
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-9878.225"
+              y="-2236.2517" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="leukocyte count" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            leukocyte count
         </text>
         <text stroke-linecap="round" font-size="456" x="-4952.627" y="-4887.513"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="neutrophil count" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="71.25px">
+              stroke-opacity="0.8" stroke-width="142.5px">
             neutrophil count
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-2034.8694"
+              y="17142.686" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF12" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            ZNF12
         </text>
         <text stroke-linecap="round" font-size="528" x="6858.246" y="7326.2183"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF799" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="82.5px">
+              stroke-opacity="0.8" stroke-width="165.0px">
             ZNF799
         </text>
         <text stroke-linecap="round" font-size="528" x="10391.571"
               y="-11052.504" fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF429" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="82.5px">
+              stroke-opacity="0.8" stroke-width="165.0px">
             ZNF429
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-3411.367"
+              y="-16976.477" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF596" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            ZNF596
+        </text>
+        <text stroke-linecap="round" font-size="384" x="-14623.411"
+              y="-7682.588" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PRDM9" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="120.0px">
+            PRDM9
         </text>
         <text stroke-linecap="round" font-size="528" x="9176.1455" y="3502.4846"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF483" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="82.5px">
+              stroke-opacity="0.8" stroke-width="165.0px">
             ZNF483
         </text>
         <text stroke-linecap="round" font-size="456" x="14711.173"
               y="-3811.3865" fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF777" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="71.25px">
+              stroke-opacity="0.8" stroke-width="142.5px">
             ZNF777
         </text>
         <text stroke-linecap="round" font-size="528" x="-7465.964" y="93.9163"
               fill="#000000" stroke-linejoin="round"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF398" stroke="#ffffff"
-              stroke-opacity="0.8" stroke-width="82.5px">
+              stroke-opacity="0.8" stroke-width="165.0px">
             ZNF398
         </text>
     </g>
     <g id="node-labels">
+        <text font-size="384" x="-6548.2754" y="-10561.868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF268">
+            ZNF268
+        </text>
+        <text font-size="384" x="-9641.66" y="13221.591" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF728">
+            ZNF728
+        </text>
+        <text font-size="384" x="1986.3303" y="-4125.529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF133">
+            ZNF133
+        </text>
         <text font-size="960" x="3399.2153" y="2395.927" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="body height">
@@ -724,6 +1360,16 @@
               font-family="Arial" class="mean corpuscular volume">
             mean corpuscular volume
         </text>
+        <text font-size="384" x="-1568.503" y="-1420.2618" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="platelet count">
+            platelet count
+        </text>
+        <text font-size="384" x="-1602.7142" y="45.659927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF487">
+            ZNF487
+        </text>
         <text font-size="600" x="-3340.6318" y="2778.0332" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZFP90">
@@ -744,10 +1390,35 @@
               font-family="Arial" class="ZNF354C">
             ZNF354C
         </text>
+        <text font-size="384" x="-4329.4453" y="7448.001" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="FEV/FVC ratio">
+            FEV/FVC ratio
+        </text>
+        <text font-size="384" x="15108.549" y="11849.268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="heel bone mineral density">
+            heel bone mineral density
+        </text>
+        <text font-size="384" x="-8161.5273" y="-4783.0938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF440">
+            ZNF440
+        </text>
+        <text font-size="384" x="-9878.225" y="-2236.2517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="leukocyte count">
+            leukocyte count
+        </text>
         <text font-size="456" x="-4952.627" y="-4887.513" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="neutrophil count">
             neutrophil count
+        </text>
+        <text font-size="384" x="-2034.8694" y="17142.686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF12">
+            ZNF12
         </text>
         <text font-size="528" x="6858.246" y="7326.2183" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
@@ -758,6 +1429,16 @@
               style="text-anchor: middle; dominant-baseline: central;"
               font-family="Arial" class="ZNF429">
             ZNF429
+        </text>
+        <text font-size="384" x="-3411.367" y="-16976.477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ZNF596">
+            ZNF596
+        </text>
+        <text font-size="384" x="-14623.411" y="-7682.588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PRDM9">
+            PRDM9
         </text>
         <text font-size="528" x="9176.1455" y="3502.4846" fill="#000000"
               style="text-anchor: middle; dominant-baseline: central;"
